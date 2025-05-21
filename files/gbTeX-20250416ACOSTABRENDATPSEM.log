@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.3)  17 MAY 2025 12:18
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.3)  20 MAY 2025 21:40
  restricted system commands enabled.
 **pdf-20250416ACOSTABRENDATPSEM.tex
 (./pdf-20250416ACOSTABRENDATPSEM.tex
@@ -2715,7 +2715,7 @@ Package csquotes Info: ... found 'babel' package.
  (./pdf-20250416ACOSTABRENDATPSEM.aux
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
-\c@pagesLTS.arabic.1.local.cnt=\count599
+\c@pagesLTS.roman.1.local.cnt=\count599
 )
 \openout1 = pdf-20250416ACOSTABRENDATPSEM.aux
 
@@ -2808,6 +2808,9 @@ ne 470.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(0)/b/n on input lin
 e 470.
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 470.
+
 
 Package pageslts Warning: Package pdfpages detected.
 (pageslts)                Using hyperref with pdfpages can cause problems. See
@@ -2952,9 +2955,9 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 \openout4 = pdf-20250416ACOSTABRENDATPSEM.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'pdf-20250416ACOSTABRENDATPSEM.bbl' found.
+Package biblatex Info: ... file 'pdf-20250416ACOSTABRENDATPSEM.bbl' not found.
 
-(./pdf-20250416ACOSTABRENDATPSEM.bbl)
+No file pdf-20250416ACOSTABRENDATPSEM.bbl.
 Package biblatex Info: Reference section=0 on input line 470.
 Package biblatex Info: Reference segment=0 on input line 470.
 
@@ -2999,1161 +3002,1781 @@ Package hyperref Info: Link coloring ON on input line 470.
 \@outlinefile=\write10
 
 \openout10 = pdf-20250416ACOSTABRENDATPSEM.out
+\c@pagesLTS.pnc.roman=\count607
+\c@pagesLTS.double.roman=\count608
+\c@pagesLTS.current.local.roman=\count609
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 472.
+(Font)              scaled to size 11.79993pt on input line 491.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 11.79993pt on input line 496.
+(Font)              scaled to size 11.79993pt on input line 497.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.81033pt on input line 499.
+(Font)              scaled to size 9.81033pt on input line 505.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `IBMPlexSansCondensed' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 499.
-\c@pagesLTS.pnc.arabic=\count607
-\c@pagesLTS.double.arabic=\count608
-\c@pagesLTS.current.local.arabic=\count609
+(Font)              scaled to size 9.69757pt on input line 505.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
 
 ] [2] [3] [4
 
 ]
-Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 520.
+Package biblatex Info: Resetting trackers on input line 521.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 16.99188pt on input line 520.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 16.99188pt on input line 520.
+(Font)              scaled to size 16.99188pt on input line 521.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 14.12686pt on input line 520.
+(Font)              scaled to size 14.12686pt on input line 521.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 16.95224pt on input line 520.
-LaTeX Info: Redefining \. on input line 530.
-LaTeX Info: Redefining \% on input line 530.
-LaTeX Info: Redefining \. on input line 530.
-LaTeX Info: Redefining \% on input line 530.
-[5] [6
+(Font)              scaled to size 16.95224pt on input line 521.
+LaTeX Info: Redefining \. on input line 531.
+LaTeX Info: Redefining \% on input line 531.
+LaTeX Info: Redefining \. on input line 531.
+LaTeX Info: Redefining \% on input line 531.
+ [5] [6
 
 ]
-Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 530.
-LaTeX Info: Redefining \. on input line 537.
-LaTeX Info: Redefining \% on input line 537.
-LaTeX Info: Redefining \. on input line 537.
-LaTeX Info: Redefining \% on input line 537.
-[7]
+Package biblatex Info: Resetting trackers on input line 531.
 LaTeX Info: Redefining \. on input line 538.
 LaTeX Info: Redefining \% on input line 538.
 LaTeX Info: Redefining \. on input line 538.
 LaTeX Info: Redefining \% on input line 538.
+ [7]
+LaTeX Info: Redefining \. on input line 539.
+LaTeX Info: Redefining \% on input line 539.
+LaTeX Info: Redefining \. on input line 539.
+LaTeX Info: Redefining \% on input line 539.
  [8]
-Capítulo 3.
-Package biblatex Info: Resetting trackers on input line 538.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 9.81033pt on input line 551.
-LaTeX Info: Redefining \. on input line 556.
-LaTeX Info: Redefining \% on input line 556.
-LaTeX Info: Redefining \. on input line 556.
-LaTeX Info: Redefining \% on input line 556.
-[9
+\c@pagesLTS.roman.1.local.count=\count610
+\c@pagesLTS.pnc.arabic=\count611
+\c@pagesLTS.double.arabic=\count612
+\c@pagesLTS.current.local.arabic=\count613
 
-] [10
+Capítulo 1.
+Package biblatex Info: Resetting trackers on input line 541.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 16.99188pt on input line 541.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
+(Font)              scaled to size 9.81033pt on input line 554.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 11.63708pt on input line 559.
+LaTeX Info: Redefining \. on input line 568.
+LaTeX Info: Redefining \% on input line 568.
+LaTeX Info: Redefining \. on input line 568.
+LaTeX Info: Redefining \% on input line 568.
+[1
+
 
 ]
-Capítulo 4.
-Package biblatex Info: Resetting trackers on input line 556.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 558.
-LaTeX Info: Redefining \. on input line 569.
-LaTeX Info: Redefining \% on input line 569.
-LaTeX Info: Redefining \. on input line 569.
-LaTeX Info: Redefining \% on input line 569.
-[11]
-LaTeX Info: Redefining \. on input line 578.
-LaTeX Info: Redefining \% on input line 578.
-LaTeX Info: Redefining \. on input line 578.
-LaTeX Info: Redefining \% on input line 578.
- [12]
+LaTeX Info: Redefining \. on input line 577.
+LaTeX Info: Redefining \% on input line 577.
+LaTeX Info: Redefining \. on input line 577.
+LaTeX Info: Redefining \% on input line 577.
+ [2]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LibertinusMath' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Info: Redefining \. on input line 591.
-LaTeX Info: Redefining \% on input line 591.
-LaTeX Info: Redefining \. on input line 591.
-LaTeX Info: Redefining \% on input line 591.
- [13]
-LaTeX Info: Redefining \. on input line 604.
-LaTeX Info: Redefining \% on input line 604.
-LaTeX Info: Redefining \. on input line 604.
-LaTeX Info: Redefining \% on input line 604.
- [14]
+LaTeX Info: Redefining \. on input line 598.
+LaTeX Info: Redefining \% on input line 598.
+LaTeX Info: Redefining \. on input line 598.
+LaTeX Info: Redefining \% on input line 598.
+ [3]
+LaTeX Info: Redefining \. on input line 606.
+LaTeX Info: Redefining \% on input line 606.
+LaTeX Info: Redefining \. on input line 606.
+LaTeX Info: Redefining \% on input line 606.
+ [4]
+LaTeX Info: Redefining \. on input line 620.
+LaTeX Info: Redefining \% on input line 620.
+LaTeX Info: Redefining \. on input line 620.
+LaTeX Info: Redefining \% on input line 620.
+ [5]
+LaTeX Info: Redefining \. on input line 632.
+LaTeX Info: Redefining \% on input line 632.
+LaTeX Info: Redefining \. on input line 632.
+LaTeX Info: Redefining \% on input line 632.
+ [6]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 11.7724pt on input line 612.
-LaTeX Info: Redefining \. on input line 616.
-LaTeX Info: Redefining \% on input line 616.
-LaTeX Info: Redefining \. on input line 616.
-LaTeX Info: Redefining \% on input line 616.
- [15]
-LaTeX Info: Redefining \. on input line 626.
-LaTeX Info: Redefining \% on input line 626.
-LaTeX Info: Redefining \. on input line 626.
-LaTeX Info: Redefining \% on input line 626.
- [16]
-LaTeX Info: Redefining \. on input line 637.
-LaTeX Info: Redefining \% on input line 637.
-LaTeX Info: Redefining \. on input line 637.
-LaTeX Info: Redefining \% on input line 637.
- [17]
-LaTeX Info: Redefining \. on input line 663.
-LaTeX Info: Redefining \% on input line 663.
-LaTeX Info: Redefining \. on input line 663.
-LaTeX Info: Redefining \% on input line 663.
- [18]
-LaTeX Info: Redefining \. on input line 701.
-LaTeX Info: Redefining \% on input line 701.
-LaTeX Info: Redefining \. on input line 701.
-LaTeX Info: Redefining \% on input line 701.
- [19]
-LaTeX Info: Redefining \. on input line 710.
-LaTeX Info: Redefining \% on input line 710.
-LaTeX Info: Redefining \. on input line 710.
-LaTeX Info: Redefining \% on input line 710.
- [20]
-LaTeX Info: Redefining \. on input line 719.
-LaTeX Info: Redefining \% on input line 719.
-LaTeX Info: Redefining \. on input line 719.
-LaTeX Info: Redefining \% on input line 719.
- [21]
-LaTeX Info: Redefining \. on input line 732.
-LaTeX Info: Redefining \% on input line 732.
-LaTeX Info: Redefining \. on input line 732.
-LaTeX Info: Redefining \% on input line 732.
- [22]
-LaTeX Info: Redefining \. on input line 742.
-LaTeX Info: Redefining \% on input line 742.
-LaTeX Info: Redefining \. on input line 742.
-LaTeX Info: Redefining \% on input line 742.
- [23
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc504631
-41'
+(Font)              scaled to size 11.7724pt on input line 641.
+LaTeX Info: Redefining \. on input line 644.
+LaTeX Info: Redefining \% on input line 644.
+LaTeX Info: Redefining \. on input line 644.
+LaTeX Info: Redefining \% on input line 644.
+ [7]
+LaTeX Info: Redefining \. on input line 653.
+LaTeX Info: Redefining \% on input line 653.
+LaTeX Info: Redefining \. on input line 653.
+LaTeX Info: Redefining \% on input line 653.
+ [8]
 
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc504631
-41'
-]
-LaTeX Info: Redefining \. on input line 752.
-LaTeX Info: Redefining \% on input line 752.
-LaTeX Info: Redefining \. on input line 752.
-LaTeX Info: Redefining \% on input line 752.
- [24]
-LaTeX Info: Redefining \. on input line 772.
-LaTeX Info: Redefining \% on input line 772.
-LaTeX Info: Redefining \. on input line 772.
-LaTeX Info: Redefining \% on input line 772.
- [25]
-LaTeX Info: Redefining \. on input line 790.
-LaTeX Info: Redefining \% on input line 790.
-LaTeX Info: Redefining \. on input line 790.
-LaTeX Info: Redefining \% on input line 790.
- [26]
-LaTeX Info: Redefining \. on input line 799.
-LaTeX Info: Redefining \% on input line 799.
-LaTeX Info: Redefining \. on input line 799.
-LaTeX Info: Redefining \% on input line 799.
- [27] [28
+! Package array Error:  Illegal pream-token (\toprule): `c' used.
 
-]
-Capítulo 5.
-Package biblatex Info: Resetting trackers on input line 799.
-LaTeX Info: Redefining \. on input line 808.
-LaTeX Info: Redefining \% on input line 808.
-LaTeX Info: Redefining \. on input line 808.
-LaTeX Info: Redefining \% on input line 808.
-[29]
-LaTeX Info: Redefining \. on input line 816.
-LaTeX Info: Redefining \% on input line 816.
-LaTeX Info: Redefining \. on input line 816.
-LaTeX Info: Redefining \% on input line 816.
- [30]
-LaTeX Info: Redefining \. on input line 824.
-LaTeX Info: Redefining \% on input line 824.
-LaTeX Info: Redefining \. on input line 824.
-LaTeX Info: Redefining \% on input line 824.
- [31]
-LaTeX Info: Redefining \. on input line 834.
-LaTeX Info: Redefining \% on input line 834.
-LaTeX Info: Redefining \. on input line 834.
-LaTeX Info: Redefining \% on input line 834.
- [32]
-LaTeX Info: Redefining \. on input line 843.
-LaTeX Info: Redefining \% on input line 843.
-LaTeX Info: Redefining \. on input line 843.
-LaTeX Info: Redefining \% on input line 843.
- [33]
-LaTeX Info: Redefining \. on input line 854.
-LaTeX Info: Redefining \% on input line 854.
-LaTeX Info: Redefining \. on input line 854.
-LaTeX Info: Redefining \% on input line 854.
- [34]
-LaTeX Info: Redefining \. on input line 861.
-LaTeX Info: Redefining \% on input line 861.
-LaTeX Info: Redefining \. on input line 861.
-LaTeX Info: Redefining \% on input line 861.
- [35]
-LaTeX Info: Redefining \. on input line 876.
-LaTeX Info: Redefining \% on input line 876.
-LaTeX Info: Redefining \. on input line 876.
-LaTeX Info: Redefining \% on input line 876.
- [36]
-LaTeX Info: Redefining \. on input line 893.
-LaTeX Info: Redefining \% on input line 893.
-LaTeX Info: Redefining \. on input line 893.
-LaTeX Info: Redefining \% on input line 893.
- [37]
-LaTeX Info: Redefining \. on input line 903.
-LaTeX Info: Redefining \% on input line 903.
-LaTeX Info: Redefining \. on input line 903.
-LaTeX Info: Redefining \% on input line 903.
- [38]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/it' will be
-(Font)              scaled to size 11.79993pt on input line 907.
-LaTeX Info: Redefining \. on input line 919.
-LaTeX Info: Redefining \% on input line 919.
-LaTeX Info: Redefining \. on input line 919.
-LaTeX Info: Redefining \% on input line 919.
- [39]
-LaTeX Info: Redefining \. on input line 936.
-LaTeX Info: Redefining \% on input line 936.
-LaTeX Info: Redefining \. on input line 936.
-LaTeX Info: Redefining \% on input line 936.
- [40]
-LaTeX Info: Redefining \. on input line 954.
-LaTeX Info: Redefining \% on input line 954.
-LaTeX Info: Redefining \. on input line 954.
-LaTeX Info: Redefining \% on input line 954.
- [41]
-LaTeX Info: Redefining \. on input line 963.
-LaTeX Info: Redefining \% on input line 963.
-LaTeX Info: Redefining \. on input line 963.
-LaTeX Info: Redefining \% on input line 963.
- [42]
-LaTeX Info: Redefining \. on input line 980.
-LaTeX Info: Redefining \% on input line 980.
-LaTeX Info: Redefining \. on input line 980.
-LaTeX Info: Redefining \% on input line 980.
- [43]
-LaTeX Info: Redefining \. on input line 992.
-LaTeX Info: Redefining \% on input line 992.
-LaTeX Info: Redefining \. on input line 992.
-LaTeX Info: Redefining \% on input line 992.
-
-[44]
-LaTeX Info: Redefining \. on input line 1010.
-LaTeX Info: Redefining \% on input line 1010.
-LaTeX Info: Redefining \. on input line 1010.
-LaTeX Info: Redefining \% on input line 1010.
- [45]
-LaTeX Info: Redefining \. on input line 1016.
-LaTeX Info: Redefining \% on input line 1016.
-LaTeX Info: Redefining \. on input line 1016.
-LaTeX Info: Redefining \% on input line 1016.
- [46]
-LaTeX Info: Redefining \. on input line 1028.
-LaTeX Info: Redefining \% on input line 1028.
-LaTeX Info: Redefining \. on input line 1028.
-LaTeX Info: Redefining \% on input line 1028.
- [47]
-LaTeX Info: Redefining \. on input line 1038.
-LaTeX Info: Redefining \% on input line 1038.
-LaTeX Info: Redefining \. on input line 1038.
-LaTeX Info: Redefining \% on input line 1038.
- [48]
-LaTeX Info: Redefining \. on input line 1044.
-LaTeX Info: Redefining \% on input line 1044.
-LaTeX Info: Redefining \. on input line 1044.
-LaTeX Info: Redefining \% on input line 1044.
- [49]
-LaTeX Info: Redefining \. on input line 1063.
-LaTeX Info: Redefining \% on input line 1063.
-LaTeX Info: Redefining \. on input line 1063.
-LaTeX Info: Redefining \% on input line 1063.
- [50]
-LaTeX Info: Redefining \. on input line 1071.
-LaTeX Info: Redefining \% on input line 1071.
-LaTeX Info: Redefining \. on input line 1071.
-LaTeX Info: Redefining \% on input line 1071.
- [51]
-LaTeX Info: Redefining \. on input line 1072.
-LaTeX Info: Redefining \% on input line 1072.
-LaTeX Info: Redefining \. on input line 1072.
-LaTeX Info: Redefining \% on input line 1072.
- [52]
-Capítulo 6.
-Package biblatex Info: Resetting trackers on input line 1072.
-LaTeX Info: Redefining \. on input line 1083.
-LaTeX Info: Redefining \% on input line 1083.
-LaTeX Info: Redefining \. on input line 1083.
-LaTeX Info: Redefining \% on input line 1083.
-[53
-
-]
-LaTeX Info: Redefining \. on input line 1093.
-LaTeX Info: Redefining \% on input line 1093.
-LaTeX Info: Redefining \. on input line 1093.
-LaTeX Info: Redefining \% on input line 1093.
- [54]
-LaTeX Info: Redefining \. on input line 1106.
-LaTeX Info: Redefining \% on input line 1106.
-LaTeX Info: Redefining \. on input line 1106.
-LaTeX Info: Redefining \% on input line 1106.
- [55]
-LaTeX Info: Redefining \. on input line 1119.
-LaTeX Info: Redefining \% on input line 1119.
-LaTeX Info: Redefining \. on input line 1119.
-LaTeX Info: Redefining \% on input line 1119.
- [56]
-LaTeX Info: Redefining \. on input line 1131.
-LaTeX Info: Redefining \% on input line 1131.
-LaTeX Info: Redefining \. on input line 1131.
-LaTeX Info: Redefining \% on input line 1131.
- [57]
-LaTeX Info: Redefining \. on input line 1137.
-LaTeX Info: Redefining \% on input line 1137.
-LaTeX Info: Redefining \. on input line 1137.
-LaTeX Info: Redefining \% on input line 1137.
- [58]
-LaTeX Info: Redefining \. on input line 1156.
-LaTeX Info: Redefining \% on input line 1156.
-LaTeX Info: Redefining \. on input line 1156.
-LaTeX Info: Redefining \% on input line 1156.
- [59]
-LaTeX Info: Redefining \. on input line 1203.
-LaTeX Info: Redefining \% on input line 1203.
-LaTeX Info: Redefining \. on input line 1203.
-LaTeX Info: Redefining \% on input line 1203.
- [60]
-LaTeX Info: Redefining \. on input line 1222.
-LaTeX Info: Redefining \% on input line 1222.
-LaTeX Info: Redefining \. on input line 1222.
-LaTeX Info: Redefining \% on input line 1222.
- [61]
-LaTeX Info: Redefining \. on input line 1240.
-LaTeX Info: Redefining \% on input line 1240.
-LaTeX Info: Redefining \. on input line 1240.
-LaTeX Info: Redefining \% on input line 1240.
- [62]
-LaTeX Info: Redefining \. on input line 1258.
-LaTeX Info: Redefining \% on input line 1258.
-LaTeX Info: Redefining \. on input line 1258.
-LaTeX Info: Redefining \% on input line 1258.
- [63]
-LaTeX Info: Redefining \. on input line 1270.
-LaTeX Info: Redefining \% on input line 1270.
-LaTeX Info: Redefining \. on input line 1270.
-LaTeX Info: Redefining \% on input line 1270.
- [64]
-LaTeX Info: Redefining \. on input line 1277.
-LaTeX Info: Redefining \% on input line 1277.
-LaTeX Info: Redefining \. on input line 1277.
-LaTeX Info: Redefining \% on input line 1277.
- [65] [66
-
-]
-Capítulo 7.
-Package biblatex Info: Resetting trackers on input line 1277.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 16.95224pt on input line 1277.
-LaTeX Info: Redefining \. on input line 1343.
-LaTeX Info: Redefining \% on input line 1343.
-LaTeX Info: Redefining \. on input line 1343.
-LaTeX Info: Redefining \% on input line 1343.
-[67]
-LaTeX Info: Redefining \. on input line 1343.
-LaTeX Info: Redefining \% on input line 1343.
-LaTeX Info: Redefining \. on input line 1343.
-LaTeX Info: Redefining \% on input line 1343.
- [68
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-15'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-15'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-15'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-15'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-18'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-18'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-19'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-19'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-22'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-22'
-]
-LaTeX Info: Redefining \. on input line 1343.
-LaTeX Info: Redefining \% on input line 1343.
-LaTeX Info: Redefining \. on input line 1343.
-LaTeX Info: Redefining \% on input line 1343.
- [69
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-27'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-27'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-28'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-28'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-31'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-31'
-]
-LaTeX Info: Redefining \. on input line 1343.
-LaTeX Info: Redefining \% on input line 1343.
-LaTeX Info: Redefining \. on input line 1343.
-LaTeX Info: Redefining \% on input line 1343.
- [70
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-33'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-33'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-37'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-37'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-37'
-
-warning  (pdf backend): ignoring duplicate destination with the name '_Toc503711
-37'
-]
-LaTeX Info: Redefining \. on input line 1360.
-LaTeX Info: Redefining \% on input line 1360.
-LaTeX Info: Redefining \. on input line 1360.
-LaTeX Info: Redefining \% on input line 1360.
- [71]
-LaTeX Info: Redefining \. on input line 1368.
-LaTeX Info: Redefining \% on input line 1368.
-LaTeX Info: Redefining \. on input line 1368.
-LaTeX Info: Redefining \% on input line 1368.
- [72]
-LaTeX Info: Redefining \. on input line 1380.
-LaTeX Info: Redefining \% on input line 1380.
-LaTeX Info: Redefining \. on input line 1380.
-LaTeX Info: Redefining \% on input line 1380.
- [73]
-LaTeX Info: Redefining \. on input line 1385.
-LaTeX Info: Redefining \% on input line 1385.
-LaTeX Info: Redefining \. on input line 1385.
-LaTeX Info: Redefining \% on input line 1385.
- [74]
-LaTeX Info: Redefining \. on input line 1399.
-LaTeX Info: Redefining \% on input line 1399.
-LaTeX Info: Redefining \. on input line 1399.
-LaTeX Info: Redefining \% on input line 1399.
- [75]
-LaTeX Info: Redefining \. on input line 1412.
-LaTeX Info: Redefining \% on input line 1412.
-LaTeX Info: Redefining \. on input line 1412.
-LaTeX Info: Redefining \% on input line 1412.
- [76]
-LaTeX Info: Redefining \. on input line 1421.
-LaTeX Info: Redefining \% on input line 1421.
-LaTeX Info: Redefining \. on input line 1421.
-LaTeX Info: Redefining \% on input line 1421.
- [77]
-LaTeX Info: Redefining \. on input line 1430.
-LaTeX Info: Redefining \% on input line 1430.
-LaTeX Info: Redefining \. on input line 1430.
-LaTeX Info: Redefining \% on input line 1430.
- [78]
-LaTeX Info: Redefining \. on input line 1438.
-LaTeX Info: Redefining \% on input line 1438.
-LaTeX Info: Redefining \. on input line 1438.
-LaTeX Info: Redefining \% on input line 1438.
- [79]
-LaTeX Info: Redefining \. on input line 1450.
-LaTeX Info: Redefining \% on input line 1450.
-LaTeX Info: Redefining \. on input line 1450.
-LaTeX Info: Redefining \% on input line 1450.
- [80]
-LaTeX Info: Redefining \. on input line 1465.
-LaTeX Info: Redefining \% on input line 1465.
-LaTeX Info: Redefining \. on input line 1465.
-LaTeX Info: Redefining \% on input line 1465.
- [81]
-LaTeX Info: Redefining \. on input line 1476.
-LaTeX Info: Redefining \% on input line 1476.
-LaTeX Info: Redefining \. on input line 1476.
-LaTeX Info: Redefining \% on input line 1476.
- [82]
-LaTeX Info: Redefining \. on input line 1484.
-LaTeX Info: Redefining \% on input line 1484.
-LaTeX Info: Redefining \. on input line 1484.
-LaTeX Info: Redefining \% on input line 1484.
- [83]
-LaTeX Info: Redefining \. on input line 1497.
-LaTeX Info: Redefining \% on input line 1497.
-LaTeX Info: Redefining \. on input line 1497.
-LaTeX Info: Redefining \% on input line 1497.
- [84]
-LaTeX Info: Redefining \. on input line 1508.
-LaTeX Info: Redefining \% on input line 1508.
-LaTeX Info: Redefining \. on input line 1508.
-LaTeX Info: Redefining \% on input line 1508.
-
-[85]
-LaTeX Info: Redefining \. on input line 1526.
-LaTeX Info: Redefining \% on input line 1526.
-LaTeX Info: Redefining \. on input line 1526.
-LaTeX Info: Redefining \% on input line 1526.
- [86]
-LaTeX Info: Redefining \. on input line 1534.
-LaTeX Info: Redefining \% on input line 1534.
-LaTeX Info: Redefining \. on input line 1534.
-LaTeX Info: Redefining \% on input line 1534.
- [87]
-LaTeX Info: Redefining \. on input line 1544.
-LaTeX Info: Redefining \% on input line 1544.
-LaTeX Info: Redefining \. on input line 1544.
-LaTeX Info: Redefining \% on input line 1544.
- [88]
-LaTeX Info: Redefining \. on input line 1555.
-LaTeX Info: Redefining \% on input line 1555.
-LaTeX Info: Redefining \. on input line 1555.
-LaTeX Info: Redefining \% on input line 1555.
- [89]
-LaTeX Info: Redefining \. on input line 1562.
-LaTeX Info: Redefining \% on input line 1562.
-LaTeX Info: Redefining \. on input line 1562.
-LaTeX Info: Redefining \% on input line 1562.
- [90]
-LaTeX Info: Redefining \. on input line 1570.
-LaTeX Info: Redefining \% on input line 1570.
-LaTeX Info: Redefining \. on input line 1570.
-LaTeX Info: Redefining \% on input line 1570.
- [91]
-LaTeX Info: Redefining \. on input line 1580.
-LaTeX Info: Redefining \% on input line 1580.
-LaTeX Info: Redefining \. on input line 1580.
-LaTeX Info: Redefining \% on input line 1580.
- [92]
-LaTeX Info: Redefining \. on input line 1589.
-LaTeX Info: Redefining \% on input line 1589.
-LaTeX Info: Redefining \. on input line 1589.
-LaTeX Info: Redefining \% on input line 1589.
- [93]
-LaTeX Info: Redefining \. on input line 1598.
-LaTeX Info: Redefining \% on input line 1598.
-LaTeX Info: Redefining \. on input line 1598.
-LaTeX Info: Redefining \% on input line 1598.
- [94]
-LaTeX Info: Redefining \. on input line 1611.
-LaTeX Info: Redefining \% on input line 1611.
-LaTeX Info: Redefining \. on input line 1611.
-LaTeX Info: Redefining \% on input line 1611.
- [95]
-LaTeX Info: Redefining \. on input line 1626.
-LaTeX Info: Redefining \% on input line 1626.
-LaTeX Info: Redefining \. on input line 1626.
-LaTeX Info: Redefining \% on input line 1626.
- [96]
-LaTeX Info: Redefining \. on input line 1634.
-LaTeX Info: Redefining \% on input line 1634.
-LaTeX Info: Redefining \. on input line 1634.
-LaTeX Info: Redefining \% on input line 1634.
- [97]
-LaTeX Info: Redefining \. on input line 1638.
-LaTeX Info: Redefining \% on input line 1638.
-LaTeX Info: Redefining \. on input line 1638.
-LaTeX Info: Redefining \% on input line 1638.
- [98]
-LaTeX Info: Redefining \. on input line 1642.
-LaTeX Info: Redefining \% on input line 1642.
-LaTeX Info: Redefining \. on input line 1642.
-LaTeX Info: Redefining \% on input line 1642.
- [99]
-LaTeX Info: Redefining \. on input line 1652.
-LaTeX Info: Redefining \% on input line 1652.
-LaTeX Info: Redefining \. on input line 1652.
-LaTeX Info: Redefining \% on input line 1652.
-
-[100]
-LaTeX Info: Redefining \. on input line 1664.
-LaTeX Info: Redefining \% on input line 1664.
-LaTeX Info: Redefining \. on input line 1664.
-LaTeX Info: Redefining \% on input line 1664.
- [101]
-LaTeX Info: Redefining \. on input line 1680.
-LaTeX Info: Redefining \% on input line 1680.
-LaTeX Info: Redefining \. on input line 1680.
-LaTeX Info: Redefining \% on input line 1680.
- [102]
-LaTeX Info: Redefining \. on input line 1690.
-LaTeX Info: Redefining \% on input line 1690.
-LaTeX Info: Redefining \. on input line 1690.
-LaTeX Info: Redefining \% on input line 1690.
- [103]
-LaTeX Info: Redefining \. on input line 1691.
-LaTeX Info: Redefining \% on input line 1691.
-LaTeX Info: Redefining \. on input line 1691.
-LaTeX Info: Redefining \% on input line 1691.
- [104]
-LaTeX Info: Redefining \. on input line 1705.
-LaTeX Info: Redefining \% on input line 1705.
-LaTeX Info: Redefining \. on input line 1705.
-LaTeX Info: Redefining \% on input line 1705.
- [105]
-LaTeX Info: Redefining \. on input line 1716.
-LaTeX Info: Redefining \% on input line 1716.
-LaTeX Info: Redefining \. on input line 1716.
-LaTeX Info: Redefining \% on input line 1716.
- [106]
-LaTeX Info: Redefining \. on input line 1726.
-LaTeX Info: Redefining \% on input line 1726.
-LaTeX Info: Redefining \. on input line 1726.
-LaTeX Info: Redefining \% on input line 1726.
- [107]
-LaTeX Info: Redefining \. on input line 1734.
-LaTeX Info: Redefining \% on input line 1734.
-LaTeX Info: Redefining \. on input line 1734.
-LaTeX Info: Redefining \% on input line 1734.
- [108]
-LaTeX Info: Redefining \. on input line 1742.
-LaTeX Info: Redefining \% on input line 1742.
-LaTeX Info: Redefining \. on input line 1742.
-LaTeX Info: Redefining \% on input line 1742.
- [109]
-LaTeX Info: Redefining \. on input line 1746.
-LaTeX Info: Redefining \% on input line 1746.
-LaTeX Info: Redefining \. on input line 1746.
-LaTeX Info: Redefining \% on input line 1746.
- [110]
-LaTeX Info: Redefining \. on input line 1754.
-LaTeX Info: Redefining \% on input line 1754.
-LaTeX Info: Redefining \. on input line 1754.
-LaTeX Info: Redefining \% on input line 1754.
- [111]
-LaTeX Info: Redefining \. on input line 1764.
-LaTeX Info: Redefining \% on input line 1764.
-LaTeX Info: Redefining \. on input line 1764.
-LaTeX Info: Redefining \% on input line 1764.
-
-[112]
-LaTeX Info: Redefining \. on input line 1771.
-LaTeX Info: Redefining \% on input line 1771.
-LaTeX Info: Redefining \. on input line 1771.
-LaTeX Info: Redefining \% on input line 1771.
- [113]
-LaTeX Info: Redefining \. on input line 1778.
-LaTeX Info: Redefining \% on input line 1778.
-LaTeX Info: Redefining \. on input line 1778.
-LaTeX Info: Redefining \% on input line 1778.
- [114]
-LaTeX Info: Redefining \. on input line 1786.
-LaTeX Info: Redefining \% on input line 1786.
-LaTeX Info: Redefining \. on input line 1786.
-LaTeX Info: Redefining \% on input line 1786.
- [115]
-LaTeX Info: Redefining \. on input line 1786.
-LaTeX Info: Redefining \% on input line 1786.
-LaTeX Info: Redefining \. on input line 1786.
-LaTeX Info: Redefining \% on input line 1786.
- [116]
-LaTeX Info: Redefining \. on input line 1790.
-LaTeX Info: Redefining \% on input line 1790.
-LaTeX Info: Redefining \. on input line 1790.
-LaTeX Info: Redefining \% on input line 1790.
- [117]
-LaTeX Info: Redefining \. on input line 1800.
-LaTeX Info: Redefining \% on input line 1800.
-LaTeX Info: Redefining \. on input line 1800.
-LaTeX Info: Redefining \% on input line 1800.
- [118]
-LaTeX Info: Redefining \. on input line 1811.
-LaTeX Info: Redefining \% on input line 1811.
-LaTeX Info: Redefining \. on input line 1811.
-LaTeX Info: Redefining \% on input line 1811.
- [119]
-LaTeX Info: Redefining \. on input line 1820.
-LaTeX Info: Redefining \% on input line 1820.
-LaTeX Info: Redefining \. on input line 1820.
-LaTeX Info: Redefining \% on input line 1820.
- [120]
-LaTeX Info: Redefining \. on input line 1832.
-LaTeX Info: Redefining \% on input line 1832.
-LaTeX Info: Redefining \. on input line 1832.
-LaTeX Info: Redefining \% on input line 1832.
- [121]
-LaTeX Info: Redefining \. on input line 1843.
-LaTeX Info: Redefining \% on input line 1843.
-LaTeX Info: Redefining \. on input line 1843.
-LaTeX Info: Redefining \% on input line 1843.
- [122]
-LaTeX Info: Redefining \. on input line 1854.
-LaTeX Info: Redefining \% on input line 1854.
-LaTeX Info: Redefining \. on input line 1854.
-LaTeX Info: Redefining \% on input line 1854.
- [123]
-LaTeX Info: Redefining \. on input line 1858.
-LaTeX Info: Redefining \% on input line 1858.
-LaTeX Info: Redefining \. on input line 1858.
-LaTeX Info: Redefining \% on input line 1858.
-
-[124]
-LaTeX Info: Redefining \. on input line 1870.
-LaTeX Info: Redefining \% on input line 1870.
-LaTeX Info: Redefining \. on input line 1870.
-LaTeX Info: Redefining \% on input line 1870.
- [125]
-LaTeX Info: Redefining \. on input line 1879.
-LaTeX Info: Redefining \% on input line 1879.
-LaTeX Info: Redefining \. on input line 1879.
-LaTeX Info: Redefining \% on input line 1879.
- [126]
-LaTeX Info: Redefining \. on input line 1886.
-LaTeX Info: Redefining \% on input line 1886.
-LaTeX Info: Redefining \. on input line 1886.
-LaTeX Info: Redefining \% on input line 1886.
- [127]
-LaTeX Info: Redefining \. on input line 1902.
-LaTeX Info: Redefining \% on input line 1902.
-LaTeX Info: Redefining \. on input line 1902.
-LaTeX Info: Redefining \% on input line 1902.
- [128]
-LaTeX Info: Redefining \. on input line 1913.
-LaTeX Info: Redefining \% on input line 1913.
-LaTeX Info: Redefining \. on input line 1913.
-LaTeX Info: Redefining \% on input line 1913.
- [129]
-LaTeX Info: Redefining \. on input line 1921.
-LaTeX Info: Redefining \% on input line 1921.
-LaTeX Info: Redefining \. on input line 1921.
-LaTeX Info: Redefining \% on input line 1921.
- [130]
-LaTeX Info: Redefining \. on input line 1930.
-LaTeX Info: Redefining \% on input line 1930.
-LaTeX Info: Redefining \. on input line 1930.
-LaTeX Info: Redefining \% on input line 1930.
- [131]
-LaTeX Info: Redefining \. on input line 1942.
-LaTeX Info: Redefining \% on input line 1942.
-LaTeX Info: Redefining \. on input line 1942.
-LaTeX Info: Redefining \% on input line 1942.
- [132]
-LaTeX Info: Redefining \. on input line 1952.
-LaTeX Info: Redefining \% on input line 1952.
-LaTeX Info: Redefining \. on input line 1952.
-LaTeX Info: Redefining \% on input line 1952.
- [133]
-LaTeX Info: Redefining \. on input line 1964.
-LaTeX Info: Redefining \% on input line 1964.
-LaTeX Info: Redefining \. on input line 1964.
-LaTeX Info: Redefining \% on input line 1964.
- [134]
-LaTeX Info: Redefining \. on input line 1968.
-LaTeX Info: Redefining \% on input line 1968.
-LaTeX Info: Redefining \. on input line 1968.
-LaTeX Info: Redefining \% on input line 1968.
- [135]
-LaTeX Info: Redefining \. on input line 1976.
-LaTeX Info: Redefining \% on input line 1976.
-LaTeX Info: Redefining \. on input line 1976.
-LaTeX Info: Redefining \% on input line 1976.
-
-[136]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.43994pt on input line 1989.
-LaTeX Info: Redefining \. on input line 1990.
-LaTeX Info: Redefining \% on input line 1990.
-LaTeX Info: Redefining \. on input line 1990.
-LaTeX Info: Redefining \% on input line 1990.
- [137]
-LaTeX Info: Redefining \. on input line 2001.
-LaTeX Info: Redefining \% on input line 2001.
-LaTeX Info: Redefining \. on input line 2001.
-LaTeX Info: Redefining \% on input line 2001.
- [138]
-LaTeX Info: Redefining \. on input line 2010.
-LaTeX Info: Redefining \% on input line 2010.
-LaTeX Info: Redefining \. on input line 2010.
-LaTeX Info: Redefining \% on input line 2010.
- [139]
-LaTeX Info: Redefining \. on input line 2014.
-LaTeX Info: Redefining \% on input line 2014.
-LaTeX Info: Redefining \. on input line 2014.
-LaTeX Info: Redefining \% on input line 2014.
- [140]
-LaTeX Info: Redefining \. on input line 2017.
-LaTeX Info: Redefining \% on input line 2017.
-LaTeX Info: Redefining \. on input line 2017.
-LaTeX Info: Redefining \% on input line 2017.
- [141]
-LaTeX Info: Redefining \. on input line 2030.
-LaTeX Info: Redefining \% on input line 2030.
-LaTeX Info: Redefining \. on input line 2030.
-LaTeX Info: Redefining \% on input line 2030.
- [142]
-LaTeX Info: Redefining \. on input line 2041.
-LaTeX Info: Redefining \% on input line 2041.
-LaTeX Info: Redefining \. on input line 2041.
-LaTeX Info: Redefining \% on input line 2041.
- [143]
-LaTeX Info: Redefining \. on input line 2048.
-LaTeX Info: Redefining \% on input line 2048.
-LaTeX Info: Redefining \. on input line 2048.
-LaTeX Info: Redefining \% on input line 2048.
- [144]
-LaTeX Info: Redefining \. on input line 2060.
-LaTeX Info: Redefining \% on input line 2060.
-LaTeX Info: Redefining \. on input line 2060.
-LaTeX Info: Redefining \% on input line 2060.
- [145]
-LaTeX Info: Redefining \. on input line 2073.
-LaTeX Info: Redefining \% on input line 2073.
-LaTeX Info: Redefining \. on input line 2073.
-LaTeX Info: Redefining \% on input line 2073.
- [146]
-LaTeX Info: Redefining \. on input line 2085.
-LaTeX Info: Redefining \% on input line 2085.
-LaTeX Info: Redefining \. on input line 2085.
-LaTeX Info: Redefining \% on input line 2085.
- [147]
-LaTeX Info: Redefining \. on input line 2095.
-LaTeX Info: Redefining \% on input line 2095.
-LaTeX Info: Redefining \. on input line 2095.
-LaTeX Info: Redefining \% on input line 2095.
-
-[148]
-LaTeX Info: Redefining \. on input line 2107.
-LaTeX Info: Redefining \% on input line 2107.
-LaTeX Info: Redefining \. on input line 2107.
-LaTeX Info: Redefining \% on input line 2107.
- [149]
-LaTeX Info: Redefining \. on input line 2115.
-LaTeX Info: Redefining \% on input line 2115.
-LaTeX Info: Redefining \. on input line 2115.
-LaTeX Info: Redefining \% on input line 2115.
- [150]
-LaTeX Info: Redefining \. on input line 2118.
-LaTeX Info: Redefining \% on input line 2118.
-LaTeX Info: Redefining \. on input line 2118.
-LaTeX Info: Redefining \% on input line 2118.
- [151]
-LaTeX Info: Redefining \. on input line 2125.
-LaTeX Info: Redefining \% on input line 2125.
-LaTeX Info: Redefining \. on input line 2125.
-LaTeX Info: Redefining \% on input line 2125.
- [152]
-LaTeX Info: Redefining \. on input line 2135.
-LaTeX Info: Redefining \% on input line 2135.
-LaTeX Info: Redefining \. on input line 2135.
-LaTeX Info: Redefining \% on input line 2135.
- [153]
-LaTeX Info: Redefining \. on input line 2139.
-LaTeX Info: Redefining \% on input line 2139.
-LaTeX Info: Redefining \. on input line 2139.
-LaTeX Info: Redefining \% on input line 2139.
- [154]
-LaTeX Info: Redefining \. on input line 2145.
-LaTeX Info: Redefining \% on input line 2145.
-LaTeX Info: Redefining \. on input line 2145.
-LaTeX Info: Redefining \% on input line 2145.
- [155]
-LaTeX Info: Redefining \. on input line 2147.
-LaTeX Info: Redefining \% on input line 2147.
-LaTeX Info: Redefining \. on input line 2147.
-LaTeX Info: Redefining \% on input line 2147.
- [156]
-LaTeX Info: Redefining \. on input line 2159.
-LaTeX Info: Redefining \% on input line 2159.
-LaTeX Info: Redefining \. on input line 2159.
-LaTeX Info: Redefining \% on input line 2159.
- [157]
-LaTeX Info: Redefining \. on input line 2169.
-LaTeX Info: Redefining \% on input line 2169.
-LaTeX Info: Redefining \. on input line 2169.
-LaTeX Info: Redefining \% on input line 2169.
- [158]
-LaTeX Info: Redefining \. on input line 2178.
-LaTeX Info: Redefining \% on input line 2178.
-LaTeX Info: Redefining \. on input line 2178.
-LaTeX Info: Redefining \% on input line 2178.
- [159]
-LaTeX Info: Redefining \. on input line 2183.
-LaTeX Info: Redefining \% on input line 2183.
-LaTeX Info: Redefining \. on input line 2183.
-LaTeX Info: Redefining \% on input line 2183.
-
-[160]
-LaTeX Info: Redefining \. on input line 2191.
-LaTeX Info: Redefining \% on input line 2191.
-LaTeX Info: Redefining \. on input line 2191.
-LaTeX Info: Redefining \% on input line 2191.
- [161]
-LaTeX Info: Redefining \. on input line 2195.
-LaTeX Info: Redefining \% on input line 2195.
-LaTeX Info: Redefining \. on input line 2195.
-LaTeX Info: Redefining \% on input line 2195.
- [162]
-LaTeX Info: Redefining \. on input line 2199.
-LaTeX Info: Redefining \% on input line 2199.
-LaTeX Info: Redefining \. on input line 2199.
-LaTeX Info: Redefining \% on input line 2199.
- [163]
-LaTeX Info: Redefining \. on input line 2208.
-LaTeX Info: Redefining \% on input line 2208.
-LaTeX Info: Redefining \. on input line 2208.
-LaTeX Info: Redefining \% on input line 2208.
- [164]
-LaTeX Info: Redefining \. on input line 2215.
-LaTeX Info: Redefining \% on input line 2215.
-LaTeX Info: Redefining \. on input line 2215.
-LaTeX Info: Redefining \% on input line 2215.
- [165]
-LaTeX Info: Redefining \. on input line 2223.
-LaTeX Info: Redefining \% on input line 2223.
-LaTeX Info: Redefining \. on input line 2223.
-LaTeX Info: Redefining \% on input line 2223.
- [166]
-LaTeX Info: Redefining \. on input line 2233.
-LaTeX Info: Redefining \% on input line 2233.
-LaTeX Info: Redefining \. on input line 2233.
-LaTeX Info: Redefining \% on input line 2233.
- [167]
-LaTeX Info: Redefining \. on input line 2241.
-LaTeX Info: Redefining \% on input line 2241.
-LaTeX Info: Redefining \. on input line 2241.
-LaTeX Info: Redefining \% on input line 2241.
- [168]
-LaTeX Info: Redefining \. on input line 2252.
-LaTeX Info: Redefining \% on input line 2252.
-LaTeX Info: Redefining \. on input line 2252.
-LaTeX Info: Redefining \% on input line 2252.
- [169]
-LaTeX Info: Redefining \. on input line 2254.
-LaTeX Info: Redefining \% on input line 2254.
-LaTeX Info: Redefining \. on input line 2254.
-LaTeX Info: Redefining \% on input line 2254.
- [170]
-Capítulo 8.
-Package biblatex Info: Resetting trackers on input line 2254.
-LaTeX Info: Redefining \. on input line 2267.
-LaTeX Info: Redefining \% on input line 2267.
-LaTeX Info: Redefining \. on input line 2267.
-LaTeX Info: Redefining \% on input line 2267.
-[171
-
-]
-LaTeX Info: Redefining \. on input line 2277.
-LaTeX Info: Redefining \% on input line 2277.
-LaTeX Info: Redefining \. on input line 2277.
-LaTeX Info: Redefining \% on input line 2277.
- [172]
-LaTeX Info: Redefining \. on input line 2287.
-LaTeX Info: Redefining \% on input line 2287.
-LaTeX Info: Redefining \. on input line 2287.
-LaTeX Info: Redefining \% on input line 2287.
- [173]
-LaTeX Info: Redefining \. on input line 2298.
-LaTeX Info: Redefining \% on input line 2298.
-LaTeX Info: Redefining \. on input line 2298.
-LaTeX Info: Redefining \% on input line 2298.
- [174]
-LaTeX Info: Redefining \. on input line 2306.
-LaTeX Info: Redefining \% on input line 2306.
-LaTeX Info: Redefining \. on input line 2306.
-LaTeX Info: Redefining \% on input line 2306.
- [175]
-LaTeX Info: Redefining \. on input line 2319.
-LaTeX Info: Redefining \% on input line 2319.
-LaTeX Info: Redefining \. on input line 2319.
-LaTeX Info: Redefining \% on input line 2319.
- [176]
-LaTeX Info: Redefining \. on input line 2333.
-LaTeX Info: Redefining \% on input line 2333.
-LaTeX Info: Redefining \. on input line 2333.
-LaTeX Info: Redefining \% on input line 2333.
- [177]
-LaTeX Info: Redefining \. on input line 2342.
-LaTeX Info: Redefining \% on input line 2342.
-LaTeX Info: Redefining \. on input line 2342.
-LaTeX Info: Redefining \% on input line 2342.
- [178]
-LaTeX Info: Redefining \. on input line 2352.
-LaTeX Info: Redefining \% on input line 2352.
-LaTeX Info: Redefining \. on input line 2352.
-LaTeX Info: Redefining \% on input line 2352.
- [179]
-LaTeX Info: Redefining \. on input line 2365.
-LaTeX Info: Redefining \% on input line 2365.
-LaTeX Info: Redefining \. on input line 2365.
-LaTeX Info: Redefining \% on input line 2365.
- [180]
-LaTeX Info: Redefining \. on input line 2374.
-LaTeX Info: Redefining \% on input line 2374.
-LaTeX Info: Redefining \. on input line 2374.
-LaTeX Info: Redefining \% on input line 2374.
- [181] [182
-
-]
-! Too many }'s.
-l.2388 \{BIBLIOGRAFÍA}
-                     
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-LaTeX Info: Redefining \. on input line 2398.
-LaTeX Info: Redefining \% on input line 2398.
-LaTeX Info: Redefining \. on input line 2398.
-LaTeX Info: Redefining \% on input line 2398.
-[183]
-LaTeX Info: Redefining \. on input line 2424.
-LaTeX Info: Redefining \% on input line 2424.
-LaTeX Info: Redefining \. on input line 2424.
-LaTeX Info: Redefining \% on input line 2424.
- [184]
-LaTeX Info: Redefining \. on input line 2460.
-LaTeX Info: Redefining \% on input line 2460.
-LaTeX Info: Redefining \. on input line 2460.
-LaTeX Info: Redefining \% on input line 2460.
- [185]
-LaTeX Info: Redefining \. on input line 2492.
-LaTeX Info: Redefining \% on input line 2492.
-LaTeX Info: Redefining \. on input line 2492.
-LaTeX Info: Redefining \% on input line 2492.
- [186]
-LaTeX Info: Redefining \. on input line 2526.
-LaTeX Info: Redefining \% on input line 2526.
-LaTeX Info: Redefining \. on input line 2526.
-LaTeX Info: Redefining \% on input line 2526.
- [187]
-LaTeX Info: Redefining \. on input line 2553.
-LaTeX Info: Redefining \% on input line 2553.
-LaTeX Info: Redefining \. on input line 2553.
-LaTeX Info: Redefining \% on input line 2553.
- [188]
-LaTeX Info: Redefining \. on input line 2587.
-LaTeX Info: Redefining \% on input line 2587.
-LaTeX Info: Redefining \. on input line 2587.
-LaTeX Info: Redefining \% on input line 2587.
- [189]
-
-! Package pageslts Error: pagenumbering scheme missing.
-
-See the pageslts package documentation for explanation.
+See the array package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2611 \end{document}
-                   
-The pageslts package was used, but
-\pagenumbering
-was not called at the beginning of the document
-(maybe earlier or later).
-Please use \pagenumbering
-(with an argument like arabic, roman, Roman,
-fnsymbol, alph, or Alph) at the beginning
-of your document! Otherwise your document
-will probably compile, but the pageslts
-package might not be able to get all labels
-for the references to the respective pages
-right.
+l.656 \toprule
+            \noalign{}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.660 \textbf{Medio} &
+                     \textbf{Inversión publicitaria según medios, en \%} &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.660 ...rsión publicitaria según medios, en \%} &
+                                                   & & & & & & & \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-AED: pageslts setting LastPage 
-LaTeX Info: Redefining \. on input line 2611.
-LaTeX Info: Redefining \% on input line 2611.
-LaTeX Info: Redefining \. on input line 2611.
-LaTeX Info: Redefining \% on input line 2611.
-(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
-File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
-)
-(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
-File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [190]
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.660 ...ión publicitaria según medios, en \%} & &
+                                                   & & & & & & \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
- found. (Remove \makenoidxglossaries if you don't want any glossaries.)
-This document will not have a glossary.
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.660 ...n publicitaria según medios, en \%} & & &
+                                                   & & & & & \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-\c@pagesLTS.arabic.1.local.count=\count610
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.660 ... publicitaria según medios, en \%} & & & &
+                                                   & & & & \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-AED: pageslts setting VeryLastPage via AfterLastShipout 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.660 ...ublicitaria según medios, en \%} & & & & &
+                                                   & & & \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-AED: pageslts setting LastPages via AfterLastShipout 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.660 ...licitaria según medios, en \%} & & & & & &
+                                                   & & \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.660 ...citaria según medios, en \%} & & & & & & &
+                                                   & \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-Package pageslts Info: Total number of pages is even.
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.660 ...taria según medios, en \%} & & & & & & & &
+                                                   \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.661 &
+      \textbf{2010} & \textbf{2011} & \textbf{2012} & \textbf{2013} & \textb...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-(./pdf-20250416ACOSTABRENDATPSEM.aux
-LaTeX Info: Redefining \sptext on input line 20.
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
-)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
- ***********
-Package rerunfilecheck Info: File `pdf-20250416ACOSTABRENDATPSEM.out' has not c
-hanged.
-(rerunfilecheck)             Checksum: 675634B6D0E94EB077CFE2E0EA7763F3;1950.
-Package logreq Info: Writing requests to 'pdf-20250416ACOSTABRENDATPSEM.run.xml
-'.
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.661 & \textbf{2010} &
+                      \textbf{2011} & \textbf{2012} & \textbf{2013} & \textb...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
 
-\openout1 = pdf-20250416ACOSTABRENDATPSEM.run.xml
-)
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.661 & \textbf{2010} & \textbf{2011} &
+                                      \textbf{2012} & \textbf{2013} & \textb...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.661 ...tbf{2010} & \textbf{2011} & \textbf{2012} &
+                                                   \textbf{2013} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.661 ...tbf{2011} & \textbf{2012} & \textbf{2013} &
+                                                   \textbf{2014} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.661 ...tbf{2012} & \textbf{2013} & \textbf{2014} &
+                                                   \textbf{2015} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.661 ...tbf{2013} & \textbf{2014} & \textbf{2015} &
+                                                   \textbf{2016} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.661 ...tbf{2014} & \textbf{2015} & \textbf{2016} &
+                                                   \textbf{2017} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.661 ...tbf{2015} & \textbf{2016} & \textbf{2017} &
+                                                   \textbf{2018} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.662 \textbf{Televisión abierta y cable} &
+                                           \textbf{47,7} & \textbf{44,4} & \...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.662 ...evisión abierta y cable} & \textbf{47,7} &
+                                                   \textbf{44,4} & \textbf{4...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.662 ... y cable} & \textbf{47,7} & \textbf{44,4} &
+                                                   \textbf{45} & \textbf{46,...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.662 ...extbf{47,7} & \textbf{44,4} & \textbf{45} &
+                                                   \textbf{46,9} & \textbf{3...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.662 ...extbf{44,4} & \textbf{45} & \textbf{46,9} &
+                                                   \textbf{39,5} & \textbf{3...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.662 ...extbf{45} & \textbf{46,9} & \textbf{39,5} &
+                                                   \textbf{38,6} & \textbf{3...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.662 ...tbf{46,9} & \textbf{39,5} & \textbf{38,6} &
+                                                   \textbf{39} & \textbf{41}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.662 ...extbf{39,5} & \textbf{38,6} & \textbf{39} &
+                                                   \textbf{41} & \textbf{41} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.662 ...\textbf{38,6} & \textbf{39} & \textbf{41} &
+                                                   \textbf{41} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.663 \textbf{Radios en AMBA e interior} &
+                                         \textbf{3,2} & \textbf{3,2} & \text...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.663 ...Radios en AMBA e interior} & \textbf{3,2} &
+                                                   \textbf{3,2} & \textbf{3,...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.663 ...e interior} & \textbf{3,2} & \textbf{3,2} &
+                                                   \textbf{3,7} & \textbf{4,...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.663 ...textbf{3,2} & \textbf{3,2} & \textbf{3,7} &
+                                                   \textbf{4,0} & \textbf{4,...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.663 ...textbf{3,2} & \textbf{3,7} & \textbf{4,0} &
+                                                   \textbf{4,6} & \textbf{5}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.663 ...textbf{3,7} & \textbf{4,0} & \textbf{4,6} &
+                                                   \textbf{5} & \textbf{8} &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.663 ... \textbf{4,0} & \textbf{4,6} & \textbf{5} &
+                                                   \textbf{8} & \textbf{8} &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.663 ... & \textbf{4,6} & \textbf{5} & \textbf{8} &
+                                                   \textbf{8} & \textbf{8} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.663 ...6} & \textbf{5} & \textbf{8} & \textbf{8} &
+                                                   \textbf{8} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.664 \textbf{Diarios en AMBA e interior} &
+                                          \textbf{34} & \textbf{35} & \textb...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.664 ...Diarios en AMBA e interior} & \textbf{34} &
+                                                   \textbf{35} & \textbf{34}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.664 ...A e interior} & \textbf{34} & \textbf{35} &
+                                                   \textbf{34} & \textbf{31}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.664 ...& \textbf{34} & \textbf{35} & \textbf{34} &
+                                                   \textbf{31} & \textbf{25}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.664 ...& \textbf{35} & \textbf{34} & \textbf{31} &
+                                                   \textbf{25} & \textbf{22}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.664 ...& \textbf{34} & \textbf{31} & \textbf{25} &
+                                                   \textbf{22} & \textbf{21}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.664 ...& \textbf{31} & \textbf{25} & \textbf{22} &
+                                                   \textbf{21} & \textbf{16}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.664 ...& \textbf{25} & \textbf{22} & \textbf{21} &
+                                                   \textbf{16} & \textbf{15} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.664 ...& \textbf{22} & \textbf{21} & \textbf{16} &
+                                                   \textbf{15} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.665 \textbf{Revistas} &
+                        \textbf{4,7} & \textbf{4,8} & \textbf{4,6} & \textbf...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.665 \textbf{Revistas} & \textbf{4,7} &
+                                       \textbf{4,8} & \textbf{4,6} & \textbf...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.665 ...f{Revistas} & \textbf{4,7} & \textbf{4,8} &
+                                                   \textbf{4,6} & \textbf{4,...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.665 ...textbf{4,7} & \textbf{4,8} & \textbf{4,6} &
+                                                   \textbf{4,2} & \textbf{3,...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.665 ...textbf{4,8} & \textbf{4,6} & \textbf{4,2} &
+                                                   \textbf{3,1} & \textbf{3}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.665 ...textbf{4,6} & \textbf{4,2} & \textbf{3,1} &
+                                                   \textbf{3} & \textbf{3} &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.665 ... \textbf{4,2} & \textbf{3,1} & \textbf{3} &
+                                                   \textbf{3} & \textbf{2} &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.665 ... & \textbf{3,1} & \textbf{3} & \textbf{3} &
+                                                   \textbf{2} & \textbf{2} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.665 ...1} & \textbf{3} & \textbf{3} & \textbf{2} &
+                                                   \textbf{2} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.666 \textbf{Vía pública} &
+                             \textbf{5,5} & \textbf{5,2} & \textbf{4,3} & \t...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.666 \textbf{Vía pública} & \textbf{5,5} &
+                                            \textbf{5,2} & \textbf{4,3} & \t...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.666 ...a pública} & \textbf{5,5} & \textbf{5,2} &
+                                                   \textbf{4,3} & \textbf{4,...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.666 ...textbf{5,5} & \textbf{5,2} & \textbf{4,3} &
+                                                   \textbf{4,3} & \textbf{4....
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.666 ...textbf{5,2} & \textbf{4,3} & \textbf{4,3} &
+                                                   \textbf{4.5} & \textbf{5}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.666 ...textbf{4,3} & \textbf{4,3} & \textbf{4.5} &
+                                                   \textbf{5} & \textbf{5} &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.666 ... \textbf{4,3} & \textbf{4.5} & \textbf{5} &
+                                                   \textbf{5} & \textbf{5} &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.666 ... & \textbf{4.5} & \textbf{5} & \textbf{5} &
+                                                   \textbf{5} & \textbf{7} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.666 ...5} & \textbf{5} & \textbf{5} & \textbf{5} &
+                                                   \textbf{7} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.667 \textbf{Cine} &
+                    \textbf{1,3} & \textbf{1,2} & \textbf{1,3} & \textbf{1,3...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.667 \textbf{Cine} & \textbf{1,3} &
+                                   \textbf{1,2} & \textbf{1,3} & \textbf{1,3...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.667 \textbf{Cine} & \textbf{1,3} & \textbf{1,2} &
+                                                  \textbf{1,3} & \textbf{1,3...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.667 ...textbf{1,3} & \textbf{1,2} & \textbf{1,3} &
+                                                   \textbf{1,3} & \textbf{1,...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.667 ...textbf{1,2} & \textbf{1,3} & \textbf{1,3} &
+                                                   \textbf{1,2} & \textbf{1}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.667 ...textbf{1,3} & \textbf{1,3} & \textbf{1,2} &
+                                                   \textbf{1} & \textbf{1} &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.667 ... \textbf{1,3} & \textbf{1,2} & \textbf{1} &
+                                                   \textbf{1} & \textbf{1} &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.667 ... & \textbf{1,2} & \textbf{1} & \textbf{1} &
+                                                   \textbf{1} & \textbf{1} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.667 ...2} & \textbf{1} & \textbf{1} & \textbf{1} &
+                                                   \textbf{1} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.668 \textbf{Internet} &
+                        \textbf{4,3} & \textbf{6,1} & \textbf{7,4} & \textbf...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.668 \textbf{Internet} & \textbf{4,3} &
+                                       \textbf{6,1} & \textbf{7,4} & \textbf...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.668 ...f{Internet} & \textbf{4,3} & \textbf{6,1} &
+                                                   \textbf{7,4} & \textbf{8,...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.668 ...textbf{4,3} & \textbf{6,1} & \textbf{7,4} &
+                                                   \textbf{8,0} & \textbf{16...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.668 ...textbf{6,1} & \textbf{7,4} & \textbf{8,0} &
+                                                   \textbf{16} & \textbf{20}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.668 ...\textbf{7,4} & \textbf{8,0} & \textbf{16} &
+                                                   \textbf{20} & \textbf{20}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.668 ... \textbf{8,0} & \textbf{16} & \textbf{20} &
+                                                   \textbf{20} & \textbf{24}...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.668 ...& \textbf{16} & \textbf{20} & \textbf{20} &
+                                                   \textbf{24} & \textbf{25} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.668 ...& \textbf{20} & \textbf{20} & \textbf{24} &
+                                                   \textbf{25} \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+[9]
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+LaTeX Info: Redefining \. on input line 669.
+LaTeX Info: Redefining \% on input line 669.
+ [10]
+LaTeX Info: Redefining \. on input line 697.
+LaTeX Info: Redefining \% on input line 697.
+LaTeX Info: Redefining \. on input line 697.
+LaTeX Info: Redefining \% on input line 697.
+ [11]
+
+! Package array Error:  Illegal pream-token (\textbf): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.702 \textbf
+           {Diario} & \textbf{Localidad} & \textbf{2010} & \textbf{2011} & \...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 \textbf{Diario} &
+                      \textbf{Localidad} & \textbf{2010} & \textbf{2011} & \...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 \textbf{Diario} & \textbf{Localidad} &
+                                           \textbf{2010} & \textbf{2011} & \...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 ...rio} & \textbf{Localidad} & \textbf{2010} &
+                                                   \textbf{2011} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 ...ocalidad} & \textbf{2010} & \textbf{2011} &
+                                                   \textbf{2012} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 ...tbf{2010} & \textbf{2011} & \textbf{2012} &
+                                                   \textbf{2013} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 ...tbf{2011} & \textbf{2012} & \textbf{2013} &
+                                                   \textbf{2014} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 ...tbf{2012} & \textbf{2013} & \textbf{2014} &
+                                                   \textbf{2015} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 ...tbf{2013} & \textbf{2014} & \textbf{2015} &
+                                                   \textbf{2016} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 ...tbf{2014} & \textbf{2015} & \textbf{2016} &
+                                                   \textbf{2017} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 ...tbf{2015} & \textbf{2016} & \textbf{2017} &
+                                                   \textbf{2018} & \textbf{2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 ...tbf{2016} & \textbf{2017} & \textbf{2018} &
+                                                   \textbf{2019} & \textbf{D...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.702 ...tbf{2017} & \textbf{2018} & \textbf{2019} &
+                                                   \textbf{Dif.}
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 Clarín &
+              AMBA & 664 & 591 & 599 & 570 & 513 & 508 & 487 & 446. & 388 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 Clarín & AMBA &
+                     664 & 591 & 599 & 570 & 513 & 508 & 487 & 446. & 388 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 Clarín & AMBA & 664 &
+                           591 & 599 & 570 & 513 & 508 & 487 & 446. & 388 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 Clarín & AMBA & 664 & 591 &
+                                 599 & 570 & 513 & 508 & 487 & 446. & 388 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 Clarín & AMBA & 664 & 591 & 599 &
+                                       570 & 513 & 508 & 487 & 446. & 388 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 Clarín & AMBA & 664 & 591 & 599 & 570 &
+                                             513 & 508 & 487 & 446. & 388 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 Clarín & AMBA & 664 & 591 & 599 & 570 & 513 &
+                                                   508 & 487 & 446. & 388 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 ... AMBA & 664 & 591 & 599 & 570 & 513 & 508 &
+                                                   487 & 446. & 388 & 396 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 ...& 664 & 591 & 599 & 570 & 513 & 508 & 487 &
+                                                   446. & 388 & 396 & -40 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 ... 591 & 599 & 570 & 513 & 508 & 487 & 446. &
+                                                   388 & 396 & -40 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 ... 599 & 570 & 513 & 508 & 487 & 446. & 388 &
+                                                   396 & -40 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.705 ... 570 & 513 & 508 & 487 & 446. & 388 & 396 &
+                                                   -40 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 La Nación &
+                 AMBA & 280 & 332 & 360 & 331 & 323. & 320 & 302 & 288 & 209...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 La Nación & AMBA &
+                        280 & 332 & 360 & 331 & 323. & 320 & 302 & 288 & 209...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 La Nación & AMBA & 280 &
+                              332 & 360 & 331 & 323. & 320 & 302 & 288 & 209...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 La Nación & AMBA & 280 & 332 &
+                                    360 & 331 & 323. & 320 & 302 & 288 & 209...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 La Nación & AMBA & 280 & 332 & 360 &
+                                          331 & 323. & 320 & 302 & 288 & 209...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 La Nación & AMBA & 280 & 332 & 360 & 331 &
+                                                323. & 320 & 302 & 288 & 209...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 ...ón & AMBA & 280 & 332 & 360 & 331 & 323. &
+                                                   320 & 302 & 288 & 209 & 2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 ...AMBA & 280 & 332 & 360 & 331 & 323. & 320 &
+                                                   302 & 288 & 209 & 201 & -...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 ... 280 & 332 & 360 & 331 & 323. & 320 & 302 &
+                                                   288 & 209 & 201 & -28 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 ... 332 & 360 & 331 & 323. & 320 & 302 & 288 &
+                                                   209 & 201 & -28 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 ... 360 & 331 & 323. & 320 & 302 & 288 & 209 &
+                                                   201 & -28 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.706 ... 331 & 323. & 320 & 302 & 288 & 209 & 201 &
+                                                   -28 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 Diario Popular &
+                     AMBA & 147 & 131 & 135 & 131 & 120 & 118 & 106 & 95 & 8...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 Diario Popular & AMBA &
+                            147 & 131 & 135 & 131 & 120 & 118 & 106 & 95 & 8...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 Diario Popular & AMBA & 147 &
+                                  131 & 135 & 131 & 120 & 118 & 106 & 95 & 8...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 Diario Popular & AMBA & 147 & 131 &
+                                        135 & 131 & 120 & 118 & 106 & 95 & 8...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 Diario Popular & AMBA & 147 & 131 & 135 &
+                                              131 & 120 & 118 & 106 & 95 & 8...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 ...io Popular & AMBA & 147 & 131 & 135 & 131 &
+                                                   120 & 118 & 106 & 95 & 85...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 ...ular & AMBA & 147 & 131 & 135 & 131 & 120 &
+                                                   118 & 106 & 95 & 85 & 73 ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 ... AMBA & 147 & 131 & 135 & 131 & 120 & 118 &
+                                                   106 & 95 & 85 & 73 & -50 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 ...& 147 & 131 & 135 & 131 & 120 & 118 & 106 &
+                                                   95 & 85 & 73 & -50 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 ... & 131 & 135 & 131 & 120 & 118 & 106 & 95 &
+                                                   85 & 73 & -50 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 ...1 & 135 & 131 & 120 & 118 & 106 & 95 & 85 &
+                                                   73 & -50 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.707 ...35 & 131 & 120 & 118 & 106 & 95 & 85 & 73 &
+                                                   -50 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 La Voz del Int. &
+                      Córdoba & 99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 59 ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 La Voz del Int. & Córdoba &
+                                 99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 59 ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 La Voz del Int. & Córdoba & 99 &
+                                      90 & 90 & 90 & 84 & 81 & 73 & 66 & 59 ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 La Voz del Int. & Córdoba & 99 & 90 &
+                                           90 & 90 & 84 & 81 & 73 & 66 & 59 ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 La Voz del Int. & Córdoba & 99 & 90 & 90 &
+                                                90 & 84 & 81 & 73 & 66 & 59 ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 ...z del Int. & Córdoba & 99 & 90 & 90 & 90 &
+                                                   84 & 81 & 73 & 66 & 59 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 ... Int. & Córdoba & 99 & 90 & 90 & 90 & 84 &
+                                                   81 & 73 & 66 & 59 & 53 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 ... & Córdoba & 99 & 90 & 90 & 90 & 84 & 81 &
+                                                   73 & 66 & 59 & 53 & -46 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 ...rdoba & 99 & 90 & 90 & 90 & 84 & 81 & 73 &
+                                                   66 & 59 & 53 & -46 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 ...a & 99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 &
+                                                   59 & 53 & -46 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 ...9 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 59 &
+                                                   53 & -46 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.708 ...0 & 90 & 90 & 84 & 81 & 73 & 66 & 59 & 53 &
+                                                   -46 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 Los Andes &
+                Mendoza & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 Los Andes & Mendoza &
+                          83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 Los Andes & Mendoza & 83 &
+                               78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 Los Andes & Mendoza & 83 & 78 &
+                                    77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 Los Andes & Mendoza & 83 & 78 & 77 &
+                                         73 & 68 & 65 & 57 & 52 & 49 & 43 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 Los Andes & Mendoza & 83 & 78 & 77 & 73 &
+                                              68 & 65 & 57 & 52 & 49 & 43 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 Los Andes & Mendoza & 83 & 78 & 77 & 73 & 68 &
+                                                   65 & 57 & 52 & 49 & 43 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 ...s & Mendoza & 83 & 78 & 77 & 73 & 68 & 65 &
+                                                   57 & 52 & 49 & 43 & -48 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 ...endoza & 83 & 78 & 77 & 73 & 68 & 65 & 57 &
+                                                   52 & 49 & 43 & -48 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 ...a & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 &
+                                                   49 & 43 & -48 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 ...3 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 &
+                                                   43 & -48 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.709 ...8 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 &
+                                                   -48 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 La Capital &
+                 Rosario & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 La Capital & Rosario &
+                           82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 La Capital & Rosario & 82 &
+                                80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 La Capital & Rosario & 82 & 80 &
+                                     76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 La Capital & Rosario & 82 & 80 & 76 &
+                                          67 & 62 & 56 & 47 & 41 & 36 & 30 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 La Capital & Rosario & 82 & 80 & 76 & 67 &
+                                               62 & 56 & 47 & 41 & 36 & 30 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 ...apital & Rosario & 82 & 80 & 76 & 67 & 62 &
+                                                   56 & 47 & 41 & 36 & 30 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 ...l & Rosario & 82 & 80 & 76 & 67 & 62 & 56 &
+                                                   47 & 41 & 36 & 30 & -63 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 ...osario & 82 & 80 & 76 & 67 & 62 & 56 & 47 &
+                                                   41 & 36 & 30 & -63 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 ...o & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 &
+                                                   36 & 30 & -63 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 ...2 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 &
+                                                   30 & -63 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.710 ...0 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 &
+                                                   -63 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 La Gaceta &
+                Tucumán & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 La Gaceta & Tucumán &
+                           61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 La Gaceta & Tucumán & 61 &
+                                62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 La Gaceta & Tucumán & 61 & 62 &
+                                     60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 La Gaceta & Tucumán & 61 & 62 & 60 &
+                                          56 & 56 & 55 & 49 & 45 & 40 & 34 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 La Gaceta & Tucumán & 61 & 62 & 60 & 56 &
+                                               56 & 55 & 49 & 45 & 40 & 34 &...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 ...aceta & Tucumán & 61 & 62 & 60 & 56 & 56 &
+                                                   55 & 49 & 45 & 40 & 34 & ...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 ... & Tucumán & 61 & 62 & 60 & 56 & 56 & 55 &
+                                                   49 & 45 & 40 & 34 & -44 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 ...cumán & 61 & 62 & 60 & 56 & 56 & 55 & 49 &
+                                                   45 & 40 & 34 & -44 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 ...n & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 &
+                                                   40 & 34 & -44 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 ...1 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 &
+                                                   34 & -44 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.711 ...2 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 &
+                                                   -44 \\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.712 Río Negro &
+                 Gral. Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 & 2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.712 Río Negro & Gral. Roca &
+                              45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 & 2...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+             
+l.712 Río Negro & Gral. Roca & 45 &
+                                   44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 & 2...
+(That makes 100 errors; please try again.)
 
 Here is how much of LuaTeX's memory you used:
- 66639 strings out of 476553
- 5557897,2848258 words of node,token memory allocated
- 5055180 words of node memory still in use:
-   5550 hlist, 2 vlist, 2739 rule, 74779 disc, 2438 local_par, 52 math, 78500 gl
-ue, 29148 kern, 5414 penalty, 1200 margin_kern, 473009 glyph, 35709 attribute, 6
-466 glue_spec, 5113 attribute_list, 3 write, 26 pdf_literal, 48 pdf_dest, 274 pd
-f_colorstack nodes
-   avail lists: 1:15,2:276,3:60,4:42,5:279,6:24,7:4032,8:4,9:661,10:27,11:494
- 86680 multiletter control sequences out of 65536+600000
- 84 fonts using 20564503 bytes
- 117i,7n,123p,5292b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
-Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
-lexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/pl
-ex/IBMPlexSansCondensed-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentyp
-e/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share/texlive/texmf-d
-ist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/sha
-re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
-d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
-d-SemiBold.otf>
-Output written on pdf-20250416ACOSTABRENDATPSEM.pdf (190 pages, 633010 bytes).
-
-PDF statistics: 1001 PDF objects out of 1200 (max. 8388607)
- 679 compressed objects within 7 object streams
- 273 named destinations out of 1000 (max. 131072)
- 325 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+ 66246 strings out of 476553
+ 381904,2848258 words of node,token memory allocated
+ 344330 words of node memory still in use:
+   306 hlist, 3 vlist, 216 rule, 4919 disc, 142 local_par, 2 dir, 22 math, 5739 
+glue, 2500 kern, 255 penalty, 212 unset, 62 margin_kern, 30606 glyph, 1 align_re
+cord, 5000 attribute, 548 glue_spec, 726 attribute_list, 6 temp, 1 align_stack, 
+26 pdf_literal, 1 pdf_dest, 68 pdf_colorstack nodes
+   avail lists: 1:5,2:701,3:27,4:33,5:230,6:5,7:2666,8:5,9:157,10:24,11:522
+ 86556 multiletter control sequences out of 65536+600000
+ 81 fonts using 19726691 bytes
+ 117i,7n,123p,2375b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
