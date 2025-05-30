@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.3)  29 MAY 2025 22:51
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.3)  29 MAY 2025 23:08
  restricted system commands enabled.
 **pdf-20250416ACOSTABRENDATPSEM.tex
 (./pdf-20250416ACOSTABRENDATPSEM.tex
@@ -2955,15 +2955,7 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'pdf-20250416ACOSTABRENDATPSEM.bbl' found.
 
-(./pdf-20250416ACOSTABRENDATPSEM.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                @6961-ALONSO1997
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+(./pdf-20250416ACOSTABRENDATPSEM.bbl)
 Package biblatex Info: Reference section=0 on input line 471.
 Package biblatex Info: Reference segment=0 on input line 471.
 
@@ -3099,12 +3091,6 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 8.25995pt on input line 562.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 6.86723pt on input line 562.
-
-LaTeX Warning: Citation '@6961-ALONSO1997' on page 3 undefined on input line 56
-2.
-
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.61993pt on input line 562.
 LaTeX Info: Redefining \. on input line 569.
 LaTeX Info: Redefining \% on input line 569.
 LaTeX Info: Redefining \. on input line 569.
@@ -3149,6 +3135,8 @@ LaTeX Info: Redefining \% on input line 651.
  [10]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 7.84827pt on input line 653.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 10.61993pt on input line 662.
 LaTeX Info: Redefining \. on input line 698.
 LaTeX Info: Redefining \% on input line 698.
 LaTeX Info: Redefining \. on input line 698.
@@ -4134,16 +4122,16 @@ Package logreq Info: Writing requests to 'pdf-20250416ACOSTABRENDATPSEM.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 66935 strings out of 476553
- 5557803,2848258 words of node,token memory allocated
- 4844795 words of node memory still in use:
-   4175 hlist, 17 vlist, 1562 rule, 7 ins, 1 adjust, 72153 disc, 1788 local_par,
- 78 math, 75721 glue, 30447 kern, 4117 penalty, 958 margin_kern, 452944 glyph, 3
-9615 attribute, 5166 glue_spec, 5671 attribute_list, 19 write, 30 pdf_literal, 1
-8 pdf_start_link, 18 pdf_end_link, 57 pdf_dest, 13 pdf_action, 378 pdf_colorstac
+ 66938 strings out of 476553
+ 5557882,2848258 words of node,token memory allocated
+ 4844924 words of node memory still in use:
+   4173 hlist, 17 vlist, 1562 rule, 7 ins, 1 adjust, 72153 disc, 1788 local_par,
+ 78 math, 75722 glue, 30445 kern, 4117 penalty, 955 margin_kern, 452924 glyph, 3
+9699 attribute, 5166 glue_spec, 5683 attribute_list, 27 write, 28 pdf_literal, 2
+2 pdf_start_link, 22 pdf_end_link, 57 pdf_dest, 15 pdf_action, 386 pdf_colorstac
 k nodes
-   avail lists: 1:7,2:268,3:41,4:32,5:321,6:11,7:5006,8:5,9:930,10:29,11:717
- 86975 multiletter control sequences out of 65536+600000
+   avail lists: 1:8,2:268,3:41,4:32,5:321,6:11,7:5006,8:5,9:930,10:29,11:717
+ 86977 multiletter control sequences out of 65536+600000
  98 fonts using 26500399 bytes
  117i,9n,123p,5323b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -4152,6 +4140,9 @@ warning  (pdf backend): unreferenced destination with name 'cite.0@@6960-WINAZKI
 
 warning  (pdf backend): unreferenced destination with name 'cite.0@@6962-ALONSO2
 004'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6961-ALONSO1
+997'
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
 lexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/pl
@@ -4161,10 +4152,10 @@ ist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
 d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
 d-SemiBold.otf>
-Output written on pdf-20250416ACOSTABRENDATPSEM.pdf (182 pages, 627470 bytes).
+Output written on pdf-20250416ACOSTABRENDATPSEM.pdf (182 pages, 627149 bytes).
 
-PDF statistics: 994 PDF objects out of 1000 (max. 8388607)
- 679 compressed objects within 7 object streams
- 274 named destinations out of 1000 (max. 131072)
+PDF statistics: 997 PDF objects out of 1000 (max. 8388607)
+ 681 compressed objects within 7 object streams
+ 275 named destinations out of 1000 (max. 131072)
  317 words of extra memory for PDF output out of 10000 (max. 100000000)
 
