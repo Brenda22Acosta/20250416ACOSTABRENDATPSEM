@@ -14,27 +14,31 @@
 \usepackage{easyReview}
 \usepackage{hyperxmp}
 \input{./files/gbTeXmeta-20250416ACOSTABRENDATPSEM.tex}
-\else
-\ifBNPDF
-\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
-\newcommand*\infofont[1]{\sf{\footnotesize #1 (acosta22brenda@gmail.com)}}
-\crop[font=infofont]
-\usepackage[hidelinks, unicode]{hyperref}
-\usepackage{hyperxmp}
-\input{./files/gbTeXmeta-20250416ACOSTABRENDATPSEM.tex}
-\else
-\ifPNGEPUB
-\usepackage[hidelinks, unicode]{hyperref}
-\else
-\ifHTMLEPUB
-\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
-\fi
-\fi
-\fi
+	\else
+	\ifBNPDF
+	\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
+	\newcommand*\infofont[1]{\sf{\footnotesize #1 (acosta22brenda@gmail.com)}}
+	\crop[font=infofont]
+	\usepackage[hidelinks, unicode]{hyperref}
+	\usepackage{hyperxmp}
+	\input{./files/gbTeXmeta-20250416ACOSTABRENDATPSEM.tex}
+		\else
+		\ifPNGEPUB
+		\usepackage[hidelinks, unicode]{hyperref}
+			\else
+			\ifHTMLEPUB
+			\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
+			\fi
+		\fi
+	\fi
 \fi
 
 \begin{document}
 \frontmatter
+
+\input{./artcap/inicio-frontmatter.tex}
+\Author{Sumario}
+\tableofcontents
 
 %\textbf{Maestría en Periodismo}
 %
@@ -55,35 +59,35 @@
 %\textbf{Septiembre 2020}
 %
 %\chapter{Periodistas en Debate.Aportes al estudio del campo periodístico}
+%
+%\textbf{Resumen}
+%
+%Entre los años 2009 y 2015, el debate entre periodistas sobre el periodismo y el quehacer periodístico adoptó, en Argentina, un volumen e intensidad con pocos antecedentes. Mesas redondas, jornadas, nuevos programas periodísticos en canales de aire y de cable, innumerables artículos periodísticos de crítica y defensa de periodistas se desplegaron en la prensa cotidiana y en revistas políticas. Sin embargo, este debate se destacó por la edición de un gran número de libros escritos por periodistas sobre el periodismo, los periodistas o las empresas periodísticas.
+%
+%Este fenómeno estuvo inscripto en el conflicto entre el gobierno de Cristina Fernández de Kirchner (2007-2015) y los principales medios de comunicación (Arrueta, 2013; Stefoni, 2013; Gindin, 2014; Ure y Schwarz, 2014; Mastrini y Becerra, 2017), que se vio reflejado en una intensa producción y circulación de este tipo de libros de no ficción.
 
-\textbf{Resumen}
+%Estas tensiones y conflictos no han sido exclusivos o propios del gobierno de Cristina Fernández de Kirchner. Ruiz (2014), en \emph{Guerras Mediáticas}, reseña la sucesión de conflictos entre el poder político y los medios de comunicación en Argentina desde sus orígenes; lo novedoso del período es que este conflicto se trasladó al interior del colectivo de los periodistas, produciendo disputas discursivas y críticas recíprocas alrededor de la deontología de la actividad, su función en la sociedad y la democracia y los principios que la deben regir, personalizando en colegas y/o medios la crítica sobre el quehacer de la profesión.
 
-Entre los años 2009 y 2015, el debate entre periodistas sobre el periodismo y el quehacer periodístico adoptó, en Argentina, un volumen e intensidad con pocos antecedentes. Mesas redondas, jornadas, nuevos programas periodísticos en canales de aire y de cable, innumerables artículos periodísticos de crítica y defensa de periodistas se desplegaron en la prensa cotidiana y en revistas políticas. Sin embargo, este debate se destacó por la edición de un gran número de libros escritos por periodistas sobre el periodismo, los periodistas o las empresas periodísticas.
-
-Este fenómeno estuvo inscripto en el conflicto entre el gobierno de Cristina Fernández de Kirchner (2007-2015) y los principales medios de comunicación (Arrueta, 2013; Stefoni, 2013; Gindin, 2014; Ure y Schwarz, 2014; Mastrini y Becerra, 2017), que se vio reflejado en una intensa producción y circulación de este tipo de libros de no ficción.
-
-Estas tensiones y conflictos no han sido exclusivos o propios del gobierno de Cristina Fernández de Kirchner. Ruiz (2014), en \emph{Guerras Mediáticas}, reseña la sucesión de conflictos entre el poder político y los medios de comunicación en Argentina desde sus orígenes; lo novedoso del período es que este conflicto se trasladó al interior del colectivo de los periodistas, produciendo disputas discursivas y críticas recíprocas alrededor de la deontología de la actividad, su función en la sociedad y la democracia y los principios que la deben regir, personalizando en colegas y/o medios la crítica sobre el quehacer de la profesión.
-
-Este trabajo se propone analizar el debate entre periodistas sobre el periodismo y lo periodístico a los efectos de identificar algunos de los argumentos que los periodistas desplegaron para describir y disputar la voz legítima dentro del campo periodístico. Estrictamente, estudiar el discurso metaperiodístico a fin de avanzar, en el conocimiento de los mecanismos regulatorios del campo, en los aspectos de su identidad profesional y sus intereses latentes y manifiestos, como así también en las dinámicas de legitimación y reconocimiento del campo periodístico argentino contemporáneo que se configuran en la producción ensayística de los periodistas entre los años 2009 y 2015.
-
-\textbf{Palabras clave}
-
-Campo periodístico; Metaperiodismo; Legitimación; Independencia; Libertad de expresión
-
-\textbf{Summary}
-
-Between 2009 and 2015, the~debate~among journalists about journalism and the journalistic work adopted, in Argentine, a volume and intensity with few background. Round tables, conferences, new journalistic TV programs on air and cable~tv, countless journalistic articles on criticism and defense of journalists were deployed in the daily press and in political magazines. However, this debate was highlighted, above all, by the edition of a large number of books written by journalists about journalism, journalists or media enterprises.
-
-This phenomenon was inscribed in the conflict between the government of Cristina Fernández de Kirchner (2007-2015) and the main media (Arrueta, 2013; Stefoni, 2013; Gindin, 2014; Ure y Schwarz, 2014; Mastrini y Becerra, 2017), which was reflected in an intense production and circulation of this type of non-fiction books.
-
-These tensions and conflicts have not been exclusive of the Government of Cristina Fernández de Kirchner. Ruiz (2014), in \emph{Guerras Mediáticas}, summarizes~a~number~of conflicts between political power and the media in Argentina since its origins. The novelty of the period is that this conflict moved within the collective of journalists, producing discursive disputes and reciprocal criticisms around the deontology of the activity, its role in society and democracy and the principles that should govern it, personalizing in colleagues and / or media, the criticism of the work of the profession.
-
-This thesis intends to analyze the debate among journalists about journalism itself~in order to identify some of the arguments that journalists deployed to describe and dispute the legitimate voice inside the journalistic field. Specifically, I intend to analyze the meta journalistic discourse in order to advance in the knowledge of the regulatory mechanisms of the field, in the aspects of their professional identity and their latent and manifest interests, as well as to describe the dynamics of legitimation and~recognition of the contemporary Argentine journalistic field~that are configured in the essay production of journalists between 2009 and 2015.
-
-\textbf{Keywords}
-
-Journalistic field; Meta journalism; Legitimation; Independence; Freedom of expression
-
+%Este trabajo se propone analizar el debate entre periodistas sobre el periodismo y lo periodístico a los efectos de identificar algunos de los argumentos que los periodistas desplegaron para describir y disputar la voz legítima dentro del campo periodístico. Estrictamente, estudiar el discurso metaperiodístico a fin de avanzar, en el conocimiento de los mecanismos regulatorios del campo, en los aspectos de su identidad profesional y sus intereses latentes y manifiestos, como así también en las dinámicas de legitimación y reconocimiento del campo periodístico argentino contemporáneo que se configuran en la producción ensayística de los periodistas entre los años 2009 y 2015.
+%
+%\textbf{Palabras clave}
+%
+%Campo periodístico; Metaperiodismo; Legitimación; Independencia; Libertad de expresión
+%
+%\textbf{Summary}
+%
+%Between 2009 and 2015, the~debate~among journalists about journalism and the journalistic work adopted, in Argentine, a volume and intensity with few background. Round tables, conferences, new journalistic TV programs on air and cable~tv, countless journalistic articles on criticism and defense of journalists were deployed in the daily press and in political magazines. However, this debate was highlighted, above all, by the edition of a large number of books written by journalists about journalism, journalists or media enterprises.
+%
+%This phenomenon was inscribed in the conflict between the government of Cristina Fernández de Kirchner (2007-2015) and the main media (Arrueta, 2013; Stefoni, 2013; Gindin, 2014; Ure y Schwarz, 2014; Mastrini y Becerra, 2017), which was reflected in an intense production and circulation of this type of non-fiction books.
+%
+%These tensions and conflicts have not been exclusive of the Government of Cristina Fernández de Kirchner. Ruiz (2014), in \emph{Guerras Mediáticas}, summarizes~a~number~of conflicts between political power and the media in Argentina since its origins. The novelty of the period is that this conflict moved within the collective of journalists, producing discursive disputes and reciprocal criticisms around the deontology of the activity, its role in society and democracy and the principles that should govern it, personalizing in colleagues and / or media, the criticism of the work of the profession.
+%
+%This thesis intends to analyze the debate among journalists about journalism itself~in order to identify some of the arguments that journalists deployed to describe and dispute the legitimate voice inside the journalistic field. Specifically, I intend to analyze the meta journalistic discourse in order to advance in the knowledge of the regulatory mechanisms of the field, in the aspects of their professional identity and their latent and manifest interests, as well as to describe the dynamics of legitimation and~recognition of the contemporary Argentine journalistic field~that are configured in the essay production of journalists between 2009 and 2015.
+%
+%\textbf{Keywords}
+%
+%Journalistic field; Meta journalism; Legitimation; Independence; Freedom of expression
+%
 %INDICE
 
 \chapter{Agradecimientos}
@@ -106,7 +110,8 @@ Mientras los medios gráficos poseían la exclusividad como medios de informaci�
 
 \mainmatter
 
-\newpage
+\chapter*{}
+
 \epigraph{\enquote{-¿Y si se rompe la ilusión? -dije con un hilo de voz.
 
 		-Qué se va a romper -me tranquilizó.
@@ -117,7 +122,7 @@ Mientras los medios gráficos poseían la exclusividad como medios de informaci�
 
 		-Diga lo que se le dé la gana, nadie le va a creer.}}
 
-	\emph{Esse est percipi} (Ser es ser percibido)\parencite{@6973-BORGES1967}
+	\emph{Esse est percipi} (Ser es ser percibido) Borges y Bioy Casares \footnote{\fullcite{@6973-BORGES1967}}
 
 
 \chapter{Introducción}
